@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "firstname": "Mahmoud",
+      "lastname": "khaled",
+      "birthdate": "1994-04-21",
+      "gender": "m",
+      "education": "bachelor",
+      "company": "Google",
+      "jobExperience": 9,
+      "salary": 8000,
+      "profile": "Profile-04.jpg",
+      "id": 13
+    },
+    {
+      "firstname": "Salma",
+      "lastname": "Dehech",
+      "birthdate": "1995-05-17",
+      "gender": "f",
+      "education": "ingenieur",
+      "company": "microsoft",
+      "jobExperience": 5,
+      "salary": 5000,
+      "profile": "Profile-01.jpg",
+      "id": 14
+    },
+    {
+      "firstname": "Mourad",
+      "lastname": "Samir",
+      "birthdate": "1998-04-20",
+      "gender": "m",
+      "education": "bachelor",
+      "company": "Facebook",
+      "jobExperience": 2,
+      "salary": 6400,
+      "profile": "Profile-03.jpg",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
